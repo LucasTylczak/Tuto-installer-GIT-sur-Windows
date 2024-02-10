@@ -1,6 +1,6 @@
 
 ╔═══════════════════════╦══════════════════════════════════════╦                                                                                                                 
-║ Dev : LucasTylczak   ║ Info : Installer GIT sur Windows       ║                                                                                                                
+║ Dev : LucasTylczak   ║ Info : Installer GIT sur Windows      ║                                                                                                                
 ╚═══════════════════════╩══════════════════════════════════════╩                                                                                                                 
 
 
