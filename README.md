@@ -1,6 +1,7 @@
 ╔═══════════════════════╦══════════════════════════════════════╦═══════════════════════╗
-║  Dev : LucasTylczak   ║  Info  : Installer GIT sur windows 	 ║          Programm  : Python   ║
-╚═══════════════════════╩══════════════════════════════════════╩═══════════════════════╝ 
+║ Dev : LucasTylczak   ║ Info : Installer GIT sur Windows       ║ Programm : Python     ║
+╚═══════════════════════╩══════════════════════════════════════╩═══════════════════════╝
+
 
 # Tuto-installer-GIT-sur-Windows
 
